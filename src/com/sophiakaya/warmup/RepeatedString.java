@@ -7,6 +7,9 @@ package com.sophiakaya.warmup;
 
 import java.io.IOException;
 
+/**
+ * @author Sophia Kaya
+ */
 public class RepeatedString {
 
     static long repeatedString(String s, long n) {

@@ -1,5 +1,8 @@
 package com.sophiakaya.warmup;
 
+/**
+ * @author Sophia Kaya
+ */
 public class JumpingOnTheClouds {
 
     static int jumpingOnClouds(int[] c) {

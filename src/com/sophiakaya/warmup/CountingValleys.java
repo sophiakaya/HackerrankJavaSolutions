@@ -1,5 +1,8 @@
 package com.sophiakaya.warmup;
 
+/**
+ * @author Sophia Kaya
+ */
 public class CountingValleys {
 
     static int countingValleys(int n, String s) {

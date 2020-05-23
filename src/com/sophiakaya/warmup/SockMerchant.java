@@ -3,6 +3,9 @@ package com.sophiakaya.warmup;
 import java.io.IOException;
 import java.util.HashMap;
 
+/**
+ * @author Sophia Kaya
+ */
 public class SockMerchant {
 
     static int sockMerchant(int n, int[] ar) {
