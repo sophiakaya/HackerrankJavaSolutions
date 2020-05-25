@@ -1,7 +1,10 @@
-package com.sophiakaya.hashmaps;
+package hashmaps;
 
 import java.util.HashMap;
 
+/**
+ * @author Sophia Kaya
+ */
 public class RansomNote {
 
     static void checkMagazine(String[] magazine, String[] note) {

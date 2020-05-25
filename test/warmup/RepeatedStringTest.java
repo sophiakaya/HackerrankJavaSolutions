@@ -3,11 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.sophiakaya.warmup;
+package warmup;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
+
+import warmup.RepeatedString;
 
 /*
  * Test for {@link RepeatedString)

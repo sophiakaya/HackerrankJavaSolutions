@@ -1,4 +1,4 @@
-package com.sophiakaya.warmup;
+package warmup;
 
 import java.io.IOException;
 import java.util.HashMap;

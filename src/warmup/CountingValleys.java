@@ -1,4 +1,4 @@
-package com.sophiakaya.warmup;
+package warmup;
 
 /**
  * @author Sophia Kaya

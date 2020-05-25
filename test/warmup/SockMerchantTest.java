@@ -1,8 +1,10 @@
-package com.sophiakaya.warmup;
+package warmup;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
+
+import warmup.SockMerchant;
 
 /*
  * Test for {@link SockMerchant)

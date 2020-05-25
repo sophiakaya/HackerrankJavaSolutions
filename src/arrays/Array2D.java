@@ -1,4 +1,4 @@
-package com.sophiakaya.arrays;
+package arrays;
 
 import java.io.IOException;
 import java.util.Collections;
@@ -18,7 +18,6 @@ public class Array2D {
 	    for (int j = 1; j < arr[i].length - 1; j++) {
 		set.add(calculateSum(i, j, arr));
 	    }
-
 	}
 	return Collections.max(set);
     }

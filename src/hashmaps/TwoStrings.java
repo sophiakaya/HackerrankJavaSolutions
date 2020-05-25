@@ -1,9 +1,12 @@
-package com.sophiakaya.hashmaps;
+package hashmaps;
 
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+/**
+ * @author Sophia Kaya
+ */
 public class TwoStrings {
 
     static String twoStrings(String s1, String s2) {
